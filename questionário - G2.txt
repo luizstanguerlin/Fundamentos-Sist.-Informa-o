@@ -33,6 +33,12 @@
 
 6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
 
+        .Dados na NF - dados como serie, data e hora, número, operação, forma de pagamento, destino da operação.
+        .Dados da empresa emitente - dados como CNPJ, nome, IE, CRT, CEP, endereço, número, complemento, bairro, estado, cidade.
+        .Dados do cliente (destinatário) - CPF, CNPJ, nome, IE, CEP, endereço, número, complemento, bairro, estado, cidade.
+        .Dados do produto - código, descrição, NCM, Unidade de medida comercial, quantidade comercial, valor comercial, valor total, valor do frete, valor do desconto, código de barras, número do pedido, origem, imposto.
+
+
 7)	Quais os benefícios em versionar código fonte em ambientes como o GitHub?
 
 8)	Como funciona o fluxo de trabalho e quais os benefícios em ter o trabalho dividido nas seguintes etapas: a fazer, fazendo, feito.
