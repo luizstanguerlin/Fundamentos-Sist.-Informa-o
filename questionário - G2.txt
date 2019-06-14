@@ -69,4 +69,8 @@
 
 11)	Explique para que serve e as principais funcionalidades do Slack.
 
+        R: Usado para melhorar a comunicação interna em equipe entre membros de uma empresa. Possui canais de voz, chat e diferentes formas de interações, tem também a possibilidade de adicionar aplicativos para facilitar o trabalho, como o Trello.
+
+
+
 12)	Explique para que serve e as principais funcionalidades do Github.
