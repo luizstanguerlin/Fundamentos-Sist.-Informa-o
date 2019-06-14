@@ -3,8 +3,13 @@
         R: É a coleta de dados que serão processados (ou transformados) e será gerada uma informação
 
 
-2)	Onde podemos coletar dados para sistemas alimentar sistemas? Explique e cite exemplos.
+
+2)	Onde podemos coletar dados para alimentar sistemas? Explique e cite exemplos.
         
+        R: Dependendo do sistema, em qualquer lugar. O dado pode ser alguma informação de um cliente, por exemplo, como nome, idade, endereço.
+
+
+
 3)      Explique o que é um desenvolvedor backend, frontend, e full stack;
 
 4)	Qual a diferença entre frontend e designer?
