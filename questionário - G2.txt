@@ -20,6 +20,11 @@
 
 4)	Qual a diferença entre frontend e designer?
 
+        R: .Designer - É o responsável por prototipar a parte gráfica da aplicação.
+           .FrontEnd - É o responsável por fazer a criação do designer funcionar na aplicação.
+
+
+
 5)	Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
 
 6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
