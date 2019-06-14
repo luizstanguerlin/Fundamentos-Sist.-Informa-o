@@ -12,6 +12,12 @@
 
 3)      Explique o que é um desenvolvedor backend, frontend, e full stack;
 
+        R: .FrontEnd - É o responsável por incorporar elementos artísticos, como imagens, cores. A parte interativa. Em outras palavras cuida do visual.
+           .BackEnd - É o responsável pela "parte de trás" da aplicação, o que faz a aplicação rodar, seu código fonte.
+           .FullStack - Tem um conhecimento mais amplos, em mais áreas. Mantém uma comunicação entre os programadores FrontEnd e BackEnd para solução de problemas e bom desenvolvimento.
+
+
+
 4)	Qual a diferença entre frontend e designer?
 
 5)	Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
