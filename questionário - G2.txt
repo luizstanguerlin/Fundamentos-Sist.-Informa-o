@@ -53,6 +53,14 @@
 
 9)	Como você imagina que seja a criação e desenvolvimento de um software? Explique detalhadamente cada atividade e porque ela acontece.
 
+        R: Pelo conhecimento que tenho agora, sei que é necessário etapas como:
+           .Análise - Para analisar o que é preciso conter no software.
+           .Desenvolvimento - Desenvolvimentos Back e FrontEnd (Código-fonte e interação).
+           .Design - O que será enviado para o desenvolvedor FrontEnd trabalhar adicionar ao software.
+           .Engenharia - Estrutura do software.
+
+
+
 10)	Explique para que serve e as principais funcionalidades do Trello
 
 11)	Explique para que serve e as principais funcionalidades do Slack.
