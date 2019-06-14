@@ -63,6 +63,10 @@
 
 10)	Explique para que serve e as principais funcionalidades do Trello
 
+        R: Utilizar o fluxo de trabalho. É usado para organizar as atividades em três etapas (a fazer, fazendo e feito), também permitindo o trabalho em grupo com a possibilidade de criar times e adicionar pessoas ao seu quadro de atividades.
+
+
+
 11)	Explique para que serve e as principais funcionalidades do Slack.
 
 12)	Explique para que serve e as principais funcionalidades do Github.
