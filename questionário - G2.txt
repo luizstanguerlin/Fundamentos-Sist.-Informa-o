@@ -74,3 +74,5 @@
 
 
 12)	Explique para que serve e as principais funcionalidades do Github.
+
+        R: É usado como uma plataforma de hospedagem de códigos-fonte, possibilitando interação entre os usuários. É bastante foco de empresas para contratos.
