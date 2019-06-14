@@ -27,6 +27,10 @@
 
 5)	Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
 
+        R: O DBA. Administra o banco de dados, gerencia, instala, configura e atualiza.
+
+
+
 6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
 
 7)	Quais os benefícios em versionar código fonte em ambientes como o GitHub?
