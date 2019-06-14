@@ -41,11 +41,15 @@
 
 7)	Quais os benefícios em versionar código fonte em ambientes como o GitHub?
 
-        R: É um ótimo lugar para servir como "entrevista de emprego", pois várias empresas usam o GitHub como base do que o usuário é capaz, de sua formação e conhecimento.
+        R: Ser conhecido. É um ótimo lugar para servir como "entrevista de emprego", pois várias empresas usam o GitHub como base do que o usuário é capaz, de sua formação e conhecimento.
 
 
 
 8)	Como funciona o fluxo de trabalho e quais os benefícios em ter o trabalho dividido nas seguintes etapas: a fazer, fazendo, feito.
+
+        R: Consiste em separar as atividades pendentes para organizar suas tarefas e poupar tempo. Com isso você consegue ter uma visão melhor de suas atividades. Usa-se o "A FAZER" para organizar as atividades que ainda estão pendentes, o "FAZENDO para a atividade que está ocupando no momento (apenas uma, para melhor organização) e o "FEITO" para marcar as atividades já terminadas.
+
+
 
 9)	Como você imagina que seja a criação e desenvolvimento de um software? Explique detalhadamente cada atividade e porque ela acontece.
 
